@@ -2,9 +2,9 @@
 Retocado C:
 Desde la web
 # Modificacion en Develop
-_ Explicacion 1
-_ Explicacion 2
-_ Explicacion 3
-_ Explicacion 4
+* Explicacion 1
+* Explicacion 2
+* Explicacion 3
+* Explicacion 4
 
 
