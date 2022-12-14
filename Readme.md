@@ -9,4 +9,5 @@ Desde la web
 * Explicacion 5
 
 ## Instalacion
-
+* 1 paso
+* 2 paso
